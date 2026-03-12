@@ -4,7 +4,7 @@ Personal ML/AI study roadmap. Each book gets a summary and an exam in Spanish an
 
 ---
 
-## Bloque 0 — Foundations
+## Block 0 — Foundations
 
 | # | Book | ES | EN | Exam ES | Exam EN |
 |---|------|:--:|:--:|:-------:|:-------:|
@@ -12,7 +12,7 @@ Personal ML/AI study roadmap. Each book gets a summary and an exam in Spanish an
 | 2 | ML Math | [ ] | [ ] | [ ] | [ ] |
 | 3 | Hands-On ML with Scikit-Learn, Keras and TensorFlow | [ ] | [ ] | [ ] | [ ] |
 
-## Bloque 1 — Deep Learning & PyTorch
+## Block 1 — Deep Learning & PyTorch
 
 | # | Book | ES | EN | Exam ES | Exam EN |
 |---|------|:--:|:--:|:-------:|:-------:|
@@ -20,7 +20,7 @@ Personal ML/AI study roadmap. Each book gets a summary and an exam in Spanish an
 | 5 | Hands-On Machine Learning with PyTorch | [ ] | [ ] | [ ] | [ ] |
 | 6 | Deep Learning — Goodfellow | [ ] | [ ] | [ ] | [ ] |
 
-## Bloque 2 — LLMs & Fine-Tuning
+## Block 2 — LLMs & Fine-Tuning
 
 | # | Book | ES | EN | Exam ES | Exam EN |
 |---|------|:--:|:--:|:-------:|:-------:|
@@ -28,7 +28,7 @@ Personal ML/AI study roadmap. Each book gets a summary and an exam in Spanish an
 | 8 | Hands-On Large Language Models — Alammar | [ ] | [ ] | [ ] | [ ] |
 | 9 | LLM Engineers Handbook | [ ] | [ ] | [ ] | [ ] |
 
-## Bloque 3 — Platform Engineering
+## Block 3 — Platform Engineering
 
 | # | Book | ES | EN | Exam ES | Exam EN |
 |---|------|:--:|:--:|:-------:|:-------:|
@@ -37,7 +37,7 @@ Personal ML/AI study roadmap. Each book gets a summary and an exam in Spanish an
 | 12 | Designing Machine Learning Systems — Chip Huyen | [ ] | [ ] | [ ] | [ ] |
 | 13 | Practical MLOps | [ ] | [ ] | [ ] | [ ] |
 
-## Bloque 4 — Generative AI: Images
+## Block 4 — Generative AI: Images
 
 | # | Book | ES | EN | Exam ES | Exam EN |
 |---|------|:--:|:--:|:-------:|:-------:|
