@@ -9,7 +9,7 @@ Personal ML/AI study roadmap. Each book gets a summary and an exam in Spanish an
 | # | Book | ES | EN | Exam ES | Exam EN |
 |---|------|:--:|:--:|:-------:|:-------:|
 | 1 | Machine Learning for Absolute Beginners | [✓](study/00-foundations/01-ml-absolute-beginners/resumen-es.md) | [✓](study/00-foundations/01-ml-absolute-beginners/resumen-en.md) | [✓](study/00-foundations/01-ml-absolute-beginners/examen-es.md) | [✓](study/00-foundations/01-ml-absolute-beginners/examen-en.md) |
-| 2 | ML Math | [ ] | [ ] | [ ] | [ ] |
+| 2 | ML Math | [✓](study/00-foundations/02-ml-math/resumen-es.md) | [✓](study/00-foundations/02-ml-math/resumen-en.md) | [✓](study/00-foundations/02-ml-math/examen-es.md) | [✓](study/00-foundations/02-ml-math/examen-en.md) |
 | 3 | Hands-On ML with Scikit-Learn, Keras and TensorFlow | [ ] | [ ] | [ ] | [ ] |
 
 ## Block 1 — Deep Learning & PyTorch
